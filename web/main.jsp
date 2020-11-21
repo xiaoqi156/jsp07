@@ -9,7 +9,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <title>主页面</title>//git
+    <title>主页面</title>//gi
 </head>
 
 <body>
